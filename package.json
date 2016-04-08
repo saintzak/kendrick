@@ -1,0 +1,22 @@
+{
+  "name": "kendrick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakarhino/kendrick.git"
+  },
+  "author": "Zak Golding",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zakarhino/kendrick/issues"
+  },
+  "homepage": "https://github.com/zakarhino/kendrick#readme",
+  "dependencies": {
+    "koa": "^2.0.0"
+  }
+}
